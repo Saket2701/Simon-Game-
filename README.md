@@ -4,6 +4,8 @@
 
 The Simon Game is a classic memory and pattern recognition game. In this project, players are challenged to watch and replicate a growing sequence of colored buttons. The game progressively adds one more step to the pattern each time the player successfully replicates it.
 
+![giphy (1)](https://github.com/Saket2701/Simon-Game-/assets/101319476/4c7efc7d-c513-4961-befc-163c9513de75)
+
 ## Instructions
 
 1. **Start:** Press any key to begin the game.
